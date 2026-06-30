@@ -59,8 +59,8 @@ streamlit run app.py
 
 ### UI Preview
 
-![Screenshot UI](../Screenshot-UI.png)
+![Screenshot UI](/Screenshot-UI.png)
 
 ### Workflow Architecture
 
-![Workflow Architecture](../workflow_architecture.png)
+![Workflow Architecture](/workflow_architecture.png)
